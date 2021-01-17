@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="674.0" y="102.0">mvc.WatchView</node>
+    <node x="0.0" y="102.0">mvc.CounterView</node>
+    <node x="524.75" y="0.0">mvc.View</node>
+    <node x="1010.0" y="102.0">mvc.CpView</node>
+    <node x="345.0" y="102.0">mvc.TotalView</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="mvc.WatchView" target="mvc.View">
+      <point x="0.0" y="-26.0" />
+      <point x="832.0" y="82.0" />
+      <point x="701.0" y="82.0" />
+      <point x="35.25" y="26.0" />
+    </edge>
+    <edge source="mvc.TotalView" target="mvc.View">
+      <point x="0.0" y="-26.0" />
+      <point x="499.5" y="82.0" />
+      <point x="630.5" y="82.0" />
+      <point x="-35.25" y="26.0" />
+    </edge>
+    <edge source="mvc.CounterView" target="mvc.View">
+      <point x="0.0" y="-26.0" />
+      <point x="162.5" y="72.0" />
+      <point x="560.0" y="72.0" />
+      <point x="-105.75" y="26.0" />
+    </edge>
+    <edge source="mvc.CpView" target="mvc.View">
+      <point x="0.0" y="-26.0" />
+      <point x="1158.5" y="72.0" />
+      <point x="771.5" y="72.0" />
+      <point x="105.75" y="26.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="80.5" y="37.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
